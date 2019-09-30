@@ -1,0 +1,17 @@
+D:\projects\GeoScenery\GeoScenery.Api\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\projects\GeoScenery\GeoScenery.Api\bin\Release\netcoreapp3.0\appsettings.json
+D:\projects\GeoScenery\GeoScenery.Api\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+D:\projects\GeoScenery\GeoScenery.Api\bin\Release\netcoreapp3.0\GeoScenery.Api.exe
+D:\projects\GeoScenery\GeoScenery.Api\bin\Release\netcoreapp3.0\GeoScenery.Api.deps.json
+D:\projects\GeoScenery\GeoScenery.Api\bin\Release\netcoreapp3.0\GeoScenery.Api.runtimeconfig.json
+D:\projects\GeoScenery\GeoScenery.Api\bin\Release\netcoreapp3.0\GeoScenery.Api.runtimeconfig.dev.json
+D:\projects\GeoScenery\GeoScenery.Api\bin\Release\netcoreapp3.0\GeoScenery.Api.dll
+D:\projects\GeoScenery\GeoScenery.Api\bin\Release\netcoreapp3.0\GeoScenery.Api.pdb
+D:\projects\GeoScenery\GeoScenery.Api\obj\Release\netcoreapp3.0\staticwebassets\GeoScenery.Api.StaticWebAssets.Manifest.cache
+D:\projects\GeoScenery\GeoScenery.Api\obj\Release\netcoreapp3.0\staticwebassets\GeoScenery.Api.StaticWebAssets.xml
+D:\projects\GeoScenery\GeoScenery.Api\obj\Release\netcoreapp3.0\GeoScenery.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\GeoScenery\GeoScenery.Api\obj\Release\netcoreapp3.0\GeoScenery.Api.AssemblyInfoInputs.cache
+D:\projects\GeoScenery\GeoScenery.Api\obj\Release\netcoreapp3.0\GeoScenery.Api.AssemblyInfo.cs
+D:\projects\GeoScenery\GeoScenery.Api\obj\Release\netcoreapp3.0\GeoScenery.Api.RazorTargetAssemblyInfo.cache
+D:\projects\GeoScenery\GeoScenery.Api\obj\Release\netcoreapp3.0\GeoScenery.Api.dll
+D:\projects\GeoScenery\GeoScenery.Api\obj\Release\netcoreapp3.0\GeoScenery.Api.pdb
