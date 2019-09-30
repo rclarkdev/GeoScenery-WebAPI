@@ -1,8 +1,0 @@
-D:\projects\GeoScenery\GeoScenery.Entities\bin\Release\netcoreapp3.0\GeoScenery.Entities.deps.json
-D:\projects\GeoScenery\GeoScenery.Entities\bin\Release\netcoreapp3.0\GeoScenery.Entities.dll
-D:\projects\GeoScenery\GeoScenery.Entities\bin\Release\netcoreapp3.0\GeoScenery.Entities.pdb
-D:\projects\GeoScenery\GeoScenery.Entities\obj\Release\netcoreapp3.0\GeoScenery.Entities.AssemblyInfoInputs.cache
-D:\projects\GeoScenery\GeoScenery.Entities\obj\Release\netcoreapp3.0\GeoScenery.Entities.AssemblyInfo.cs
-D:\projects\GeoScenery\GeoScenery.Entities\obj\Release\netcoreapp3.0\GeoScenery.Entities.dll
-D:\projects\GeoScenery\GeoScenery.Entities\obj\Release\netcoreapp3.0\GeoScenery.Entities.pdb
-D:\projects\GeoScenery\GeoScenery.Entities\obj\Release\netcoreapp3.0\GeoScenery.Entities.csprojAssemblyReference.cache
